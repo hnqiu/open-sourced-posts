@@ -6,6 +6,8 @@ categories:
   - cheatsheets
 ---
 
+> :unlock: This post is [open-sourced](https://github.com/hnqiu/open-sourced-posts/blob/master/2019-05-13-ubuntu-commands.md).
+
 >:exclamation: Please note this cheatsheet is from personal experience and other online resources. It should not be considered as an official guide.
 
 ## Basic Commands

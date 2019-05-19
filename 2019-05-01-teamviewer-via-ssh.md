@@ -4,7 +4,7 @@ date: 2019-05-01
 last_modified_at: 2019-05-01
 ---
 
-> :unlock: This post is [open-sourced](https://github.com/hnqiu/open-sourced-posts/blob/master/2019-04-30-teamviewer-via-ssh.md).
+> :unlock: This post is [open-sourced](https://github.com/hnqiu/open-sourced-posts/blob/master/2019-05-01-teamviewer-via-ssh.md).
 
 Even if we can [login to the server computer remotely via `ssh`](https://hnqiu.github.io/2019/04/30/using-ssh.html), sometimes it would be best to have graphical control of that machine. In this case, [Teamviewer](https://www.teamviewer.com/) is an ideal tool. 
 

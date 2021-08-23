@@ -2,6 +2,10 @@
 title:  "Lanuch Teamviewer Through SSH"
 date: 2019-05-01
 last_modified_at: 2019-05-01
+author: hnqiu
+tags:
+  - ssh
+  - teamviewer
 ---
 
 > :unlock: This post is [open-sourced](https://github.com/hnqiu/open-sourced-posts/blob/master/2019-05-01-teamviewer-via-ssh.md).

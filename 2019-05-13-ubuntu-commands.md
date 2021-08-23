@@ -2,8 +2,10 @@
 title:  "An Archive of My Frequent Ubuntu Commands"
 date: 2019-05-13
 last_modified_at: 2019-05-13
-categories:
+author: hnqiu
+tags:
   - cheatsheets
+  - ubuntu
 ---
 
 > :unlock: This post is [open-sourced](https://github.com/hnqiu/open-sourced-posts/blob/master/2019-05-13-ubuntu-commands.md).
